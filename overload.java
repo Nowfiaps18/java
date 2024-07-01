@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Overload
+public class overload
 {
 void area (double r)
 {
